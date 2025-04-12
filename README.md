@@ -39,7 +39,7 @@ I'm passionate about bridging cutting-edge AI techniques with real-world applica
 
 - 📊 **Automatic KPI Interpretation with KNIME + GenAI**  
   A no-code solution for interpreting business KPI reports using KNIME workflows integrated with generative AI.  
-  [🔗 View on KNIME Hub](https://hub.knime.com/knime/spaces/AI%20Extension%20Example%20Workflows/5)%20Use%20Cases/Explain%20KPI%20report%20with%20multimodal%20LLMs~_HVjLdQa2xnChoyO/current-state)
+  [🔗 View on KNIME Hub](https://hub.knime.com/knime/spaces/AI%20Extension%20Example%20Workflows/5%20Use%20Cases/Explain%20KPI%20report%20with%20multimodal%20LLMs~_HVjLdQa2xnChoyO/current-state)
 
 ---
 
