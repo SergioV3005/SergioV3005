@@ -1,15 +1,6 @@
 ### 👨‍💻 About Me
 
-Hi, I’m **Sergio Verga** – a Data Science Master's student (and undergraduate researcher) with a background in Physics (Microelectronics). I'm currently working on my thesis in **Reinforcement Learning for Robotics** at the University of Milano-Bicocca and doing undergraduate research at the [Intelligent Sensing Lab (ISLab)](https://islab.disco.unimib.it/).
-
-My main interests include:
-- 🤖 **Reinforcement Learning** & Robotics  
-- 🧠 **Deep Learning**  
-- 💬 **Natural Language Processing**
-
-I'm passionate about bridging cutting-edge AI techniques with real-world applications, especially in automation, robotics, and intelligent systems.
-
-📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/sergio-verga-5b071b2b6) or check out some of my work below!
+Hi, I’m **Sergio Verga** – a Data Science Master's student (and undergraduate researcher) with a background in Physics (Microelectronics). I'm currently working on my thesis in **Reinforcement Learning for Robotics** at the University of Milano-Bicocca and doing undergraduate research at the [Intelligent Sensing Lab (ISLab)](https://islab.disco.unimib.it/). My main interests include: **Reinforcement Learning** (& Robotics), **Deep Learning** and **Natural Language Processing**. I'm passionate about bridging cutting-edge AI techniques with real-world applications, especially in automation, robotics, and intelligent systems. Let’s connect on [LinkedIn](https://www.linkedin.com/in/sergio-verga-5b071b2b6) or check out some of my work below!
 
 ---
 
@@ -53,9 +44,3 @@ I'm passionate about bridging cutting-edge AI techniques with real-world applica
 
 - 📊 **Visualize Your Revenue Growth KPI with K-AI**  
   [Read on Medium](https://medium.com/low-code-for-advanced-data-science/visualize-your-revenue-growth-kpi-with-k-ai-b04e4ca1968d) – A demo using KNIME AI Assistant to build quick custom visualizations.
-
----
-
-### 📌 More coming soon...
-
-I'm currently preparing more of my work for public release, including robotics simulations, deep RL agents, and NLP applications. Stay tuned!
