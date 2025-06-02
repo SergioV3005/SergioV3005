@@ -1,5 +1,3 @@
-### About Me
-
 Hi, I’m **Sergio Verga** – a Data Science Master's student (and external research collaborator) with a background in Physics (Microelectronics). I'm currently working on my thesis in **Reinforcement Learning for Robotics** at the University of Milano-Bicocca and doing research at the [Intelligent Sensing Lab (ISLab)](https://islab.disco.unimib.it/). My main interests include: **Reinforcement Learning** (& Robotics), **Deep Learning** and **Natural Language Processing**. I'm passionate about bridging cutting-edge AI techniques with real-world applications, especially in automation, robotics, and intelligent systems. Let’s connect on [LinkedIn](https://www.linkedin.com/in/sergio-verga-5b071b2b6) or check out some of my work below!
 
 ---
