@@ -42,3 +42,7 @@ Hi, I’m **Sergio Verga** – a Data Science Master's student (and external res
 
 - **Visualize Your Revenue Growth KPI with K-AI**  
   [Read on Medium](https://medium.com/low-code-for-advanced-data-science/visualize-your-revenue-growth-kpi-with-k-ai-b04e4ca1968d) – A demo using KNIME AI Assistant to build quick custom visualizations.
+
+---
+
+![Profile visitors](https://komarev.com/ghpvc/?username=SergioV3005&color=blue)
