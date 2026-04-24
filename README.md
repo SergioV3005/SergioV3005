@@ -21,9 +21,11 @@ Hi, I'm Sergio! I've worked as a Data Science intern at [KNIME](https://www.knim
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![KNIME](https://img.shields.io/badge/KNIME-FFB400?style=flat&logo=knime&logoColor=black)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat&logo=google&logoColor=white)
 
 **Dev & Workflow**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
@@ -40,24 +42,6 @@ Hi, I'm Sergio! I've worked as a Data Science intern at [KNIME](https://www.knim
 | [LLM Belief Bias Evaluation](https://github.com/SergioV3005/llm-belief-bias) | Tested belief bias in local LLMs (LLaMA 3.2, Mistral, Qwen) through syllogistic reasoning tasks | `LLM Evaluation` |
 
 Full list: [sergioverga.com/projects](https://www.sergioverga.com/projects)
-
----
-
-## Experience
-
-**External Research Collaborator** — Intelligent Sensing Lab, Univ. of Milano-Bicocca *(Mar–Oct 2025)*  
-EU-funded robotics research (HOMEY / PRIN 2022). Extended ACT policy models for multi-task manipulation, benchmarked teleoperation interfaces, and built dataset and evaluation pipelines.
-
-**Data Science Intern** — KNIME, Berlin *(Oct–Dec 2024)*  
-Built LLM-powered analytics apps for automated KPI reporting. Presented work at international events and contributed to technical documentation for enterprise AI workflows.
-
----
-
-## Writing
-
-- [Automate KPI Report Interpretation with GenAI & KNIME](https://www.knime.com/blog/automate-KPI-report-interpretation-genai) — KNIME Blog
-- [6 CEO KPIs and How to Measure Them](https://www.knime.com/blog/ceo-kpis) — KNIME Blog
-- [Visualize Revenue Growth KPI with K-AI](https://medium.com/low-code-for-advanced-data-science/visualize-your-revenue-growth-kpi-with-k-ai-b04e4ca1968d) — Medium
 
 ---
 
