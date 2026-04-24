@@ -5,7 +5,7 @@ AI/ML Engineer · MSc in Data Science · BSc in Physics
 
 ---
 
-BSc in Physics, MSc in Data Science. Industry experience as a Data Science intern at [KNIME](https://www.knime.com/) (Berlin) and research experience as an external collaborator at the [Intelligent Sensing Lab, University of Milano-Bicocca](https://islab.disco.unimib.it/) (band 25CE114, PRIN 2022 / EU NextGenerationEU), where I worked on Vision-Language-Action models for robotic manipulation. Main interests: robotics, LLMs, and applied ML.
+Hi, I'm Sergio! I've worked as a Data Science intern at [KNIME](https://www.knime.com/) (Berlin) and as an external research collaborator at the [Intelligent Sensing Lab, University of Milano-Bicocca](https://islab.disco.unimib.it/) (band 25CE114, PRIN 2022 / EU NextGenerationEU), where I got to work on Vision-Language-Action models for robotic manipulation — an area I find genuinely exciting. More broadly, I'm interested in agents, robotics, data analysis, and anything that sits at the boundary between research and real-world applications.
 
 ---
 
