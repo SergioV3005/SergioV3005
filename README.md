@@ -18,7 +18,7 @@ Hi, I'm Sergio! I've worked as a Data Science intern at [KNIME](https://www.knim
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 **LLMs & AI Tooling**  
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat&logo=chainlink&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![KNIME](https://img.shields.io/badge/KNIME-FFB400?style=flat&logo=knime&logoColor=black)
 ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat&logo=google&logoColor=white)
